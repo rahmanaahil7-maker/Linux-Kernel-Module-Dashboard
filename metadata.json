@@ -1,0 +1,6 @@
+{
+  "name": "K-MOD: Linux Kernel Module Architect & Ring 0 Lab",
+  "description": "Interactive Linux Kernel Module (LKM) simulator, live Ring 0 vs Ring 3 execution environment, device driver workbench, and kernel debugging sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
